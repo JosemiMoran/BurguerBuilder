@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BurguerBuilder</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="_0">0€</string>
+</resources>
